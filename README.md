@@ -10,6 +10,7 @@ How to explore this repo:
   - The weather files are from the NOAA for the same time period
   - The "real" files are the actual locations of West Nile virus for the test data
   - The "predictions" files are the predicted locations of West Nile virus for the test data
+- The west nile (and input) folder has the data used for the project
 - The data cleaning file is a basic preparation of the files to be ready for feature engineering
 - The feature engineering file is used to create the features based on our research and EDA
 - The model file includes the model and its results
